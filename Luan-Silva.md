@@ -33,6 +33,7 @@ Após digitar o comando pressione enter, ele irá solicitar que seja inserida um
 Após digitar a senha do novo usuario e repeti-la para confirmar, ele solicitará os dados do usuario a ser criado e perguntará se deseja confirmar os dados informados.
 
 ![Alt text](image-3.png)
+
 Corrija as informações, caso esteja correto, digite Y para confirmar, caso não esteja pressione N para retornar aos campos e edita-los novamente.
 
 Para verificar se o usuario foi criado você pode digitar:
